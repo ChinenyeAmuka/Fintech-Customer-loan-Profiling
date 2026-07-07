@@ -1,0 +1,151 @@
+customer_id,customer_name,socioeconomic_status,category_name,age,monthly_income,sex,marital_status,academic_background,social_media_engagement
+CUST00001,Mustapha Ogunleye,Low,Medium,54,1647195.79,Female,Divorced,Bachelor's,7
+CUST00002,John Abubakar,Low,High,24,2836164.25,Female,Divorced,Master's,6
+CUST00003,Emeka Wilson,Medium,Medium,32,2064646.92,Male,Married,Doctorate,35
+CUST00004,Obong Ekpenyong,Medium,High,58,4959445.5,Male,Married,Master's,53
+CUST00005,Ime Jones,Medium,Medium,23,1624140.87,Female,Married,Bachelor's,44
+CUST00006,Ime Okafor,High,Medium,18,1572601.74,Female,Divorced,Bachelor's,99
+CUST00007,Preye Walker,Low,Low,32,3372055.25,Male,Married,High School,94
+CUST00008,Oluwaseun Ekpenyong,Medium,Medium,57,1591244.11,Male,Single,High School,12
+CUST00009,Eyo Aliyu,Medium,Low,18,2374835.68,Male,Widowed,High School,47
+CUST00010,Ebi Inyang,Medium,Low,55,789858.15,Male,Divorced,Doctorate,63
+CUST00011,Ime Johnson,Low,Medium,42,2707317.5,Female,Divorced,High School,35
+CUST00012,Ime Udoh,Medium,Low,40,1476416.47,Male,Widowed,Bachelor's,59
+CUST00013,Eyo Brown,Low,High,22,2699244.47,Female,Married,Doctorate,60
+CUST00014,Ifeanyi Kio,High,High,65,1776439.09,Female,Widowed,Doctorate,66
+CUST00015,Ebi Adebayo,Low,High,20,3508176.48,Male,Widowed,Bachelor's,23
+CUST00016,Oliver Williams,Medium,Low,56,2372596.55,Female,Divorced,Bachelor's,47
+CUST00017,Edem Bello,Low,Medium,18,1299465.12,Male,Single,Master's,92
+CUST00018,Effiong Kio,High,High,22,671725.29,Male,Divorced,Master's,86
+CUST00019,Etim White,Medium,Medium,26,4426080.43,Female,Married,Master's,5
+CUST00020,David Mohammed,Low,Low,44,4026054.82,Female,Married,High School,22
+CUST00021,Jack Umo,Low,High,36,361451.34,Male,Widowed,Doctorate,58
+CUST00022,Mustapha Ekpenyong,Low,High,29,2797244.14,Female,Divorced,Doctorate,49
+CUST00023,Jessica Inyang,Medium,Medium,21,24735.59,Female,Widowed,Bachelor's,17
+CUST00024,Charlotte Abiye,High,High,40,3919301.85,Female,Married,High School,26
+CUST00025,Jack Abiye,Low,High,31,148570.36,Male,Single,High School,7
+CUST00026,Etim Okafor,Low,Medium,18,1288852.12,Male,Married,Bachelor's,52
+CUST00027,Suleiman Aliyu,High,High,60,1122633.98,Female,Single,High School,40
+CUST00028,Oliver Nwosu,High,Low,58,4730192.25,Male,Widowed,High School,55
+CUST00029,Oliver Udoh,Medium,Low,21,803408.83,Female,Divorced,High School,100
+CUST00030,Tonye Eze,Medium,Medium,53,2994481.48,Female,Single,Doctorate,74
+CUST00031,Eno Inyang,High,Low,46,1640394.86,Female,Single,High School,87
+CUST00032,Tamuno Ogunleye,Low,Low,46,733200.16,Female,Widowed,Doctorate,29
+CUST00033,Tamuno Okonkwo,High,High,59,152245.12,Male,Divorced,High School,95
+CUST00034,Charlotte Evans,High,Low,54,3566678.43,Female,Widowed,Master's,85
+CUST00035,Danladi Ige,High,Low,41,3948507.5,Female,Divorced,Doctorate,48
+CUST00036,Effiong Bello,High,High,62,436938.96,Female,Single,Master's,77
+CUST00037,Fatimah Kalio,Low,Low,47,2763847.42,Male,Single,High School,28
+CUST00038,Sarah Jones,Low,High,61,1954769.03,Female,Divorced,Doctorate,51
+CUST00039,Boma Briggs,Medium,High,30,2256880.49,Female,Married,Bachelor's,15
+CUST00040,Preye Adewale,Medium,Medium,58,2487094.35,Female,Single,High School,27
+CUST00041,Ekanem Douglas,Medium,Medium,28,656573.99,Female,Widowed,High School,13
+CUST00042,Dayo Williams,Low,Medium,25,2686509.7,Female,Married,Doctorate,69
+CUST00043,Jessica Briggs,Low,High,39,1614709.23,Female,Widowed,Bachelor's,9
+CUST00044,Ngozi Bassey,Low,Low,24,1299012.6,Male,Widowed,Doctorate,82
+CUST00045,Fatimah Ige,Low,Medium,24,3155296.41,Male,Single,Master's,97
+CUST00046,Charlotte Douglas,High,High,52,4041099.67,Male,Single,Doctorate,30
+CUST00047,Suleiman Udoh,High,High,38,1661914.13,Male,Married,Master's,46
+CUST00048,Chinaza Ogunleye,High,Medium,25,2485946.39,Female,Divorced,Master's,55
+CUST00049,Aisha Briggs,Medium,Medium,32,2490304.13,Male,Married,Master's,23
+CUST00050,Emily Wilson,Low,Medium,34,4813350.2,Female,Widowed,Bachelor's,38
+CUST00051,Boma Ige,Medium,High,58,511357.58,Female,Single,Doctorate,47
+CUST00052,Ngozi Williams,High,Medium,34,501609.36,Male,Single,Master's,43
+CUST00053,Fatimah Udoh,High,High,58,4965378.97,Female,Single,Master's,25
+CUST00054,Uduak Abiye,High,Low,47,4215228.25,Male,Married,Bachelor's,78
+CUST00055,Fatimah Douglas,High,Medium,22,58009.74,Female,Divorced,Bachelor's,36
+CUST00056,Effiong Briggs,Medium,High,34,4320331.12,Male,Single,Master's,79
+CUST00057,Boma Adebayo,Low,Medium,59,4393787.11,Male,Married,Master's,92
+CUST00058,Tonye Mohammed,Medium,High,57,710237.46,Female,Married,High School,25
+CUST00059,Ime Eze,Medium,Low,54,2133881.73,Male,Divorced,High School,16
+CUST00060,Aisha Eze,Low,Medium,42,579949.33,Male,Married,High School,5
+CUST00061,Dayo Inyang,Medium,Medium,19,2574272.8,Male,Divorced,Doctorate,57
+CUST00062,Tamuno Bassey,Low,Low,38,4995980.48,Female,Widowed,Doctorate,89
+CUST00063,Eyo Ola,High,Low,57,1017091.41,Female,Single,Doctorate,69
+CUST00064,Ngozi Kalio,Low,Medium,28,1262955.48,Female,Single,Bachelor's,92
+CUST00065,Charlotte Eze,Low,Low,21,2291963.3,Male,Married,Bachelor's,48
+CUST00066,Suleiman Smith,High,Low,25,4198740.4,Female,Divorced,High School,2
+CUST00067,Unyime Williams,Low,High,45,2826640.2,Female,Married,High School,75
+CUST00068,Unyime Adebayo,High,High,23,3065611.12,Male,Divorced,Bachelor's,53
+CUST00069,Chiamaka Kio,High,Medium,46,1128947.98,Male,Divorced,Bachelor's,84
+CUST00070,Michael Inyang,Low,Medium,55,1888921.35,Male,Single,Doctorate,20
+CUST00071,Harry Essien,High,Medium,52,302528.24,Female,Married,Bachelor's,7
+CUST00072,Emeka Ekpenyong,High,High,49,4666474.76,Male,Divorced,High School,80
+CUST00073,Michael Nwosu,High,Low,24,1699279.58,Male,Married,Master's,42
+CUST00074,Emeka Essien,Low,Low,29,2843459.0,Female,Married,Master's,13
+CUST00075,Harry Uche,Medium,Low,26,304741.42,Female,Single,Master's,8
+CUST00076,Oluwaseun Essien,Low,Low,57,1757637.39,Female,Married,Bachelor's,86
+CUST00077,Unyime Abiye,Medium,High,26,130426.63,Male,Divorced,High School,49
+CUST00078,Eno Okonkwo,Low,Low,22,558625.99,Male,Married,Master's,27
+CUST00079,Sola Kio,Medium,Medium,33,137731.46,Male,Widowed,Master's,63
+CUST00080,Eyo Kalio,High,Medium,49,579690.82,Male,Married,Doctorate,92
+CUST00081,Ifeanyi Johnson,Low,Medium,25,325402.49,Male,Single,Bachelor's,20
+CUST00082,Eyo Wilson,High,Medium,47,656627.99,Male,Single,Master's,29
+CUST00083,Edem Bassey,High,High,62,3504911.76,Male,Single,Master's,61
+CUST00084,Tonye Adebayo,Medium,Medium,39,1190462.52,Female,Widowed,Doctorate,45
+CUST00085,Tonye Okafor,Medium,Low,24,3694625.55,Male,Divorced,Doctorate,39
+CUST00086,David Ola,Medium,Low,62,4589191.41,Male,Widowed,High School,85
+CUST00087,Aisha Adewale,High,Low,25,288937.22,Male,Widowed,High School,89
+CUST00088,John Adewale,High,Medium,23,4712732.25,Male,Married,Doctorate,22
+CUST00089,Chiamaka Smith,Medium,Low,48,192606.32,Female,Married,Doctorate,34
+CUST00090,Suleiman Wilson,Low,High,60,2359482.23,Female,Married,Master's,2
+CUST00091,Unyime Abubakar,Medium,Low,65,4844398.15,Male,Divorced,Master's,22
+CUST00092,Ngozi Ekpenyong,Medium,High,65,2793244.24,Female,Married,Bachelor's,37
+CUST00093,Danladi Bello,Low,Low,36,4152177.77,Male,Divorced,Bachelor's,37
+CUST00094,Chinaza Etim,Low,High,62,1464405.51,Male,Single,Doctorate,30
+CUST00095,Unyime Essien,Medium,High,25,1588390.44,Male,Single,High School,27
+CUST00096,Dayo Kalio,Medium,Medium,58,973845.56,Female,Divorced,High School,30
+CUST00097,Mustapha Walker,High,High,45,1454081.13,Female,Divorced,Bachelor's,19
+CUST00098,Eno Adewale,Low,Low,21,2882590.37,Female,Divorced,High School,16
+CUST00099,Danladi Inyang,Medium,Low,46,4925638.94,Male,Married,Master's,12
+CUST00100,Oliver Briggs,Medium,Medium,21,3659503.7,Female,Married,Bachelor's,96
+CUST00101,John Aliyu,Low,High,54,4967806.0,Male,Single,High School,4
+CUST00102,Chiamaka Brown,Low,High,38,2787863.37,Female,Widowed,Bachelor's,9
+CUST00103,Ekanem Evans,High,High,20,30832.1,Male,Married,Doctorate,89
+CUST00104,Tonye Etim,High,High,33,359704.99,Male,Divorced,Master's,81
+CUST00105,Unyime Inyang,Low,Medium,28,176411.46,Male,Married,Bachelor's,8
+CUST00106,Jack Aliyu,Medium,High,32,4142797.13,Male,Single,Master's,97
+CUST00107,Emeka Aliyu,Medium,High,51,1948681.68,Female,Married,Bachelor's,63
+CUST00108,Etim Umo,High,Medium,65,4726624.25,Male,Widowed,Bachelor's,29
+CUST00109,Jack Abubakar,High,Medium,40,995065.23,Male,Married,Bachelor's,78
+CUST00110,Etim Bassey,Low,Low,46,3875901.94,Male,Widowed,Master's,92
+CUST00111,Ngozi Abubakar,High,Medium,20,1604780.56,Female,Divorced,High School,52
+CUST00112,Bimbo Bassey,Medium,Medium,40,2384683.32,Male,Single,Bachelor's,84
+CUST00113,Uduak Inyang,Low,Medium,42,1263812.75,Male,Divorced,Bachelor's,15
+CUST00114,Tonye Inyang,Low,High,19,317483.37,Male,Widowed,Bachelor's,93
+CUST00115,Boma Kio,Low,Low,46,2221172.1,Male,Single,High School,1
+CUST00116,Emeka Kalio,Medium,High,56,3258448.45,Male,Widowed,Doctorate,3
+CUST00117,Eno Abiye,High,High,21,173692.89,Female,Married,Bachelor's,45
+CUST00118,Boma Ekpenyong,Medium,Low,33,925761.11,Female,Divorced,Doctorate,80
+CUST00119,Chinaza Bassey,Medium,High,18,2856662.77,Male,Divorced,Master's,27
+CUST00120,Suleiman Okafor,Low,Low,49,3500110.95,Female,Widowed,Doctorate,80
+CUST00121,David Hall,Medium,Medium,51,1549892.85,Male,Widowed,Doctorate,58
+CUST00122,Michael Bassey,High,High,38,4030557.96,Female,Married,Master's,4
+CUST00123,Danladi Essien,High,High,25,583766.09,Male,Married,Doctorate,35
+CUST00124,Oluwaseun Kio,Low,Low,55,4257145.3,Male,Married,Master's,27
+CUST00125,Ime Etim,Medium,High,53,111808.39,Male,Single,Master's,24
+CUST00126,Bimbo Walker,High,Low,45,3544056.48,Male,Married,Doctorate,81
+CUST00127,Tonye Williams,High,Low,41,204536.4,Male,Married,Doctorate,70
+CUST00128,Etim Essien,Medium,Low,34,2432221.18,Male,Divorced,Doctorate,76
+CUST00129,Mustapha Nwosu,Medium,High,26,624155.15,Male,Widowed,High School,49
+CUST00130,Suleiman Abubakar,High,Low,20,1028306.01,Female,Married,High School,78
+CUST00131,Sola Hall,High,Low,27,261472.47,Female,Married,Doctorate,22
+CUST00132,Ngozi Jones,High,High,35,3044637.22,Female,Single,Master's,40
+CUST00133,Emily Evans,High,Low,50,488227.03,Male,Divorced,High School,10
+CUST00134,John Okonkwo,High,Low,48,3773868.1,Male,Divorced,Bachelor's,60
+CUST00135,Adebola Udoh,High,High,33,2276863.94,Male,Single,Master's,73
+CUST00136,Oluwaseun Abiye,Low,Low,54,2351082.53,Female,Married,Master's,75
+CUST00137,Mustapha Okafor,High,Medium,19,4534337.65,Female,Married,Doctorate,19
+CUST00138,Preye Wilson,High,High,55,879672.49,Male,Single,High School,20
+CUST00139,Sarah Essien,Low,Medium,23,3153847.74,Male,Married,Doctorate,18
+CUST00140,Edem Adebayo,High,Medium,46,3010980.95,Female,Divorced,High School,86
+CUST00141,Chiamaka Udoh,High,Low,57,1811843.59,Male,Single,Master's,40
+CUST00142,Adebola White,Low,High,58,118638.26,Female,Single,Bachelor's,1
+CUST00143,Charlotte Johnson,Low,Low,26,4627038.52,Female,Single,Bachelor's,22
+CUST00144,David Ige,Medium,Low,36,3175939.58,Female,Widowed,Doctorate,47
+CUST00145,Charlotte Smith,Medium,Low,39,3701795.73,Female,Married,High School,24
+CUST00146,Chinaza Eze,Low,Medium,43,2429721.39,Female,Married,Bachelor's,31
+CUST00147,John Williams,Medium,Low,62,313152.1,Male,Married,Master's,82
+CUST00148,Oliver Abubakar,Low,High,40,4858273.02,Male,Widowed,High School,15
+CUST00149,Edem Briggs,Medium,High,25,4496969.14,Female,Widowed,Master's,47
+CUST00150,Danladi Adebayo,High,Medium,59,1605392.36,Female,Single,High School,90

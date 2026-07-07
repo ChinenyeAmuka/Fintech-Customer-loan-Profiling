@@ -1,0 +1,5 @@
+transaction_type_id,transaction_type_name
+TTX01,Deposit
+TTX02,Withdrawal
+TTX03,Loan Repayment
+TTX04,Transfer

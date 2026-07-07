@@ -1,0 +1,5 @@
+loan_offer_id,loan_type,interest_rate
+LOAN001,Car Loan,5.52
+LOAN002,Land Loan,8.96
+LOAN003,School Loan,5.0
+LOAN004,Property Loan,3.99
