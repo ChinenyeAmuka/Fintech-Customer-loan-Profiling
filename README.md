@@ -48,7 +48,7 @@ Total eligible customers: 47(69%)
 6. Combining eligibility, demographics, and loan-preference data lets ALO move from broad marketing to precision targeting, reaching the right customer, with the right product, at the right lifecycle moment.
 
 # Recommendations
-Build a pre-qualification funnel using income and DTI thresholds before marketing spend is allocated, since these two factors are the clearest eligibility drivers. This reduces wasted campaign spend on the 69% currently ineligible.
-Prioritize car loan campaigns toward the 46–65 age bracket, ALO's highest-yield, highest-demand combination ($16.1M projected interest). Consider a pre-approved offer for eligible customers in this segment to shorten the conversion cycle.
-Run a parallel school-loan campaign targeted at customers under 46, since this segment shows a distinct preference pattern that a single car-loan-focused campaign would miss.
-Segment marketing messaging by eligibility status, not just by demographics — e.g., pre-approved/fast-track messaging for eligible customers vs. "improve your eligibility" nurture content (debt paydown tips, income verification support) for non-eligible customers, to convert more of the 69% currently filtered out over time.
+1. Build a pre-qualification funnel using income and DTI thresholds before marketing spend is allocated, since these two factors are the clearest eligibility drivers. This reduces wasted campaign spend on the 69% currently ineligible.
+2. Prioritize car loan campaigns toward the 46–65 age bracket, ALO's highest-yield, highest-demand combination ($16.1M projected interest). Consider a pre-approved offer for eligible customers in this segment to shorten the conversion cycle.
+3. Run a parallel school-loan campaign targeted at customers under 46, since this segment shows a distinct preference pattern that a single car-loan-focused campaign would miss.
+4. Segment marketing messaging by eligibility status, not just by demographics e.g., pre-approved/fast-track messaging for eligible customers vs. "improve your eligibility" nurture content (debt paydown tips, income verification support) for non-eligible customers, to convert more of the 69% currently filtered out over time.
