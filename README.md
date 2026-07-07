@@ -14,12 +14,12 @@ ALO Fintech aims to improve the profitability and quality of its lending portfol
 
 # Data cleaning
 
-•	Removed duplicated customer ID in Dim_customers table to ensure the records are accurate.
-•	Checked missing values and used the mean value for age to fill the gaps where age was missing.
-•	Created the date table for time intelligence purposes
-•	A decision table was equally created that had the customers profiled as “High” recognized as the most qualified to be considered for a loan.
-•	Standardized data types in the various tables by ensuring the date table is in date format while the age columns shows whole number and the amounts are in currency format.
-•	Created calculated decision table and columns for the eligible customers.
+- Removed duplicated customer ID in Dim_customers table to ensure the records are accurate using power quary.
+- Checked missing values and used the mean value for age to fill the gaps where age was missing.
+- Created the date table for time intelligence purposes
+- A decision table was equally created that had the customers profiled as “High” recognized as the most qualified to be considered for a loan.
+- Standardized data types in the various tables by ensuring the date table is in date format while the age columns shows whole number and the amounts are in currency format.
+- Created calculated decision table and columns for the eligible customers usinf DAX formula
 
 ### Data Source: Zion Tech Hub
 
@@ -34,14 +34,14 @@ Total customers in high profile segment: 68(45%)
 Total eligible customers: 47(69%)
 
 ### Eligibility Distribution
-•	Average income of eligible customers: 3.26M
-•	Average income of non-eligible customers: 567.80k
-•	Average DTI(debt to income) of eligible customers: 0.09
-•	Average DTI of non-eligible customers: 0.54
+- Average income of eligible customers: 3.26M
+- Average income of non-eligible customers: 567.80k
+- Average DTI(debt to income) of eligible customers: 0.09
+- Average DTI of non-eligible customers: 0.54
 
 # Insights
 1. 69% of the "high" profile segment (47 of 68 customers) met loan eligibility criteria, but this segment is only 45% of the total customer base, meaning just 31% of ALO's total customers (47 of 150) are currently loan-eligible. This is a strong screening rate within qualified prospects, but a signal that eligibility criteria may be filtering out a large share of the wider customer base, this is worth investigating whether marketing is reaching the right segment upstream.
-2. Eligible customers have an average monthly income roughly 6x higher than non-eligible customers ($3.26M vs. $567.80K) and a substantially lower DTI ratio (0.09 vs. their non-eligible counterparts). This confirms income and DTI are the two clearest discriminators of loan eligibility and should anchor any pre-qualification scoring model.
+2. Eligible customers have an average monthly income roughly 6x higher than non-eligible customers ($3.26M vs. $567.80K) and a substantially lower DTI ratio (0.09 vs. their non-eligible counterparts0.54). This confirms income and DTI are the two clearest discriminators of loan eligibility and should anchor any pre-qualification scoring model.
 3. Within the eligible pool, 55.32% are male, the 46–55 and 56–65 age brackets show the highest concentration of eligible borrowers, and married customers make up the largest marital-status group (21 customers, 47%). This profile — mid-to-late career, married, represents ALO's core creditworthy segment and should anchor persona-based marketing.
 4. Loan preference varies clearly by age: customers aged 46–65 skew toward car loans (12 and 7 customers respectively), while younger customers (under 25 through 36–45) skew toward school loans. Product messaging should be age-segmented rather than one-size-fits-all.
 5. Car loans generate the highest projected annual interest yield at $16.1M, out of $39.22M total projected interest across all products, making it the single highest-value product to prioritize for eligible customers in the 46–65 bracket.
@@ -52,3 +52,8 @@ Total eligible customers: 47(69%)
 2. Prioritize car loan campaigns toward the 46–65 age bracket, ALO's highest-yield, highest-demand combination ($16.1M projected interest). Consider a pre-approved offer for eligible customers in this segment to shorten the conversion cycle.
 3. Run a parallel school-loan campaign targeted at customers under 46, since this segment shows a distinct preference pattern that a single car-loan-focused campaign would miss.
 4. Segment marketing messaging by eligibility status, not just by demographics e.g., pre-approved/fast-track messaging for eligible customers vs. "improve your eligibility" nurture content (debt paydown tips, income verification support) for non-eligible customers, to convert more of the 69% currently filtered out over time.
+
+# Dashboard
+
+<img width="777" height="438" alt="Screenshot (312)" src="https://github.com/user-attachments/assets/30602add-93e0-4b6c-9973-abecd7a8b6f5" />
+
