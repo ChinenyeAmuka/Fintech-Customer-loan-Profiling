@@ -69,6 +69,9 @@ Total eligible customers: 47(69%)
 4. Segment marketing messaging by eligibility status, not just by demographics e.g., pre-approved/fast-track messaging for eligible customers vs. "improve your eligibility" nurture content (debt paydown tips, income verification support) for non-eligible customers, to convert more of the 69% currently filtered out over time.
 
 ---
+# Connect with me
+Linkedin: www.linkedin.com/in/ chinenye-amuka-79a992137
+---
 
 # Dashboard
 
