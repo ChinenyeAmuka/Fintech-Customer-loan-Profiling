@@ -1,7 +1,18 @@
 # Fintech-Customer-loan-Profiling
 This project is to help Alo fintech company to ensure create loan eligibility criteria for its customers and ensure targeted campaigns are carried out to increase conversion rate.
 
-# Business Problem
+## Table of Content
+2. [Business_Problem](#Business_Problem)
+3. [Objectives](#Objectives)
+4. [Tools Used](#Tools_Used)
+5. [Dataset](#Dataset)
+6. [Data_Analysis](#Data_Analysis)
+7. [Key_Insights](#Key_Insights)
+8. [Recommendations](#Recommendations)
+9. [Dashboard](#Dashboard)
+10. [Connect_with_me](#Connect_with_me)
+
+# Business_Problem
 ALO Fintech aims to improve the profitability and quality of its lending portfolio by identifying customers who are most likely to qualify for loans and determining which loan products generate the highest returns. Without these insights, the company risks approving high-risk borrowers, allocating marketing resources inefficiently, and missing opportunities to maximize interest income. This project analyzes customer financial profiles, demographics, and loan preferences to identify eligible borrowers, support data-driven lending decisions, reduce credit risk, and enable targeted marketing campaigns that increase loan adoption and portfolio profitability.
 
 # Business Questions
@@ -20,6 +31,10 @@ ALO Fintech aims to improve the profitability and quality of its lending portfol
 - A decision table was equally created that had the customers profiled as “High” recognized as the most qualified to be considered for a loan.
 - Standardized data types in the various tables by ensuring the date table is in date format while the age columns shows whole number and the amounts are in currency format.
 - Created calculated decision table and columns for the eligible customers usinf DAX formula
+
+# Tools Used: 
+
+Powwer BI, power query and DAX
 
 ### Data Source: Zion Tech Hub
 
