@@ -1,11 +1,11 @@
 # Fintech-Customer-loan-Profiling
-This project is to help Alo fintech company to ensure create loan eligibility criteria for its customers and ensure targeted campaigns are carried out to increase conversion rate.
+This project is to help Alo fintech company to create loan eligibility criteria for its customers and ensure targeted campaigns are carried out to increase conversion rate.
 
 ## Table of Content
 1. [Business_Problem](#Business_Problem)
 2. [Business_Questions](#Business_Questions)
 3. [Tools Used](#Tools_Used)
-4. [EDA](#Exploratory_Data_Analysis)
+4. [EDA](#EDA)
 5. [Data Cleaning](#Data_Cleaning)
 6. [Data Source](#Data_Source)
 7. [Key_Insights](#Key_Insights)
@@ -24,7 +24,7 @@ ALO Fintech aims to improve the profitability and quality of its lending portfol
 5. Which loan products are expected to generate the highest annual interest revenue?
 6. How can customer eligibility, demographics, and loan preferences be leveraged to improve lending decisions and marketing performance?
 
-# Data cleaning
+# Data_cleaning
 
 - Removed duplicated customer ID in Dim_customers table to ensure the records are accurate using power quary.
 - Checked missing values and used the mean value for age to fill the gaps where age was missing.
@@ -33,14 +33,14 @@ ALO Fintech aims to improve the profitability and quality of its lending portfol
 - Standardized data types in the various tables by ensuring the date table is in date format while the age columns shows whole number and the amounts are in currency format.
 - Created calculated decision table and columns for the eligible customers usinf DAX formula
 
-# Tools Used: 
+# Tools_Used: 
 Powwer BI, power query and DAX
 ---
-### Data Source: Zion Tech Hub
+### Data_Source: Zion Tech Hub
 ---
-# Exploratory Data Analysis
+# EDA (Exploratory_Data_Analysis)
 
-### Data Summary:
+### Data_Summary:
 The dataset was made up of 6 distinct tables, four dimensions table and one fact table with additional date-table and decision table created to aid the analysis.
 
 ### Customer Distribution:
